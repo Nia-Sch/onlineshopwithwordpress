@@ -1,0 +1,1616 @@
+# Translation of Themes - eStore in Indonesian
+# This file is distributed under the same license as the Themes - eStore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-15 13:24:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - eStore\n"
+
+#. Description of the plugin/theme
+msgid "eStore is a clean, beautiful and fully customizable responsive WooCommerce WordPress theme. This theme packs many premium features and several custom widgets which helps making your online store professional and well organized. Theme is fully compatible with WooCommerce and YITH WooCommerce Wishlist plugins. As an online store owner, attracting customers and selling products will be lot easier with this theme. Check the demo here: https://demo.themegrill.com/estore and get free support here: https://themegrill.com/support-forum/forum/estore-free/"
+msgstr "eStore bersih, cantik dan sangat bisa disesuaikan resposif tema Wordpress WooCommerce. Tema ini memiliki banyak fitur premium dan beberapa widget kustom yang membantu membuat toko online Anda profesional dan tertata baik. Tema sangat cocok dengan plugin WooCommerce dan YITH WooCommerce Wishlist. Sebagai toko online, menarik pelanggan dan menjual produk akan menjadi lebih mudah dengan tema ini. Cek demo nya disini: http://demo.themegrill.com/estore dan dapatkan bantuan gratis disini: http://themegrill.com/support-forum/forum/estore-free/"
+
+#. #-#-#-#-#  estore.pot (eStore 1.2.9)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-estore-admin.php:396 inc/demo-config.php:23
+msgid "eStore"
+msgstr "eStore"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Semua pemasangan telah selesai."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil dipasang."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dimulai. Proses ini mungkin memakan waktu pada beberapa hosting, harap bersabar."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Semua pemasangan dan pengaktifan telah selesai."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s terpasang dan berhasil diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dimulai. Proses ini mungkin memakan waktu pada beberapa hosting, harap bersabar."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat memasang %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Pengaktifan plugin gagal."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin tersedia untuk diaktifkan saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diaktifkan. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk dipasang saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diperbarui. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin yang dipilih untuk dipasang. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Perbarui"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Pasang"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan pembaruan dari pembuat plugin."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versi"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Jenis"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk dipasang, diperbarui atau diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Syarat minimum versi:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Aktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Aktifkan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+msgstr[1] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Memasang To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Memasang To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Pembaruan yang disarankan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Memerlukan pembaruan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Pembaruan yang Diperlukan tidak tersedia"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Terpasang Tapi Tidak Diaktifkan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Tidak Terpasang"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pra-Kemas"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Sumber Eksternal"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Diperlukan"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Paket remot plugin mengandung lebih dari satu file, tapi file tersebut tidak dikemas kedalam folder."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Silahkan hubungi pembuat plugin dan minta mereka untuk mengemas pluginnya sesuai panduan WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Paket remot plugin tidak mengandung folder dengan slug yang diinginkan dan tidak dapat diganti nama."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Pembaruan Diperlukan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin perlu diperbarui supaya cocok dengan tema Anda."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-estore.php:109
+msgid "Please contact the administrator of this site for help."
+msgstr "Silahkan hubungi administrasi situs ini untuk bantuan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-estore.php:108
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Terdapat satu atau lebih plugin yang diperlukan atau disarankan untuk dipasang, diperbarui atau diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-estore.php:107
+msgid "Dismiss this notice"
+msgstr "Abaikan pesan ini"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-estore.php:106
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil terpasang dan diaktifkan. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-estore.php:104
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkan. Versi tinggi dari %s diperlukan untuk tema ini. Silahkan perbarui plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-estore.php:102
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak perlu tindakan diambil. Plugin %1$s sudah berhasil aktif."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-estore.php:100
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin berikut ini berhasil diaktifkan:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-estore.php:99
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-estore.php:98
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Pemasang Plugin yang Diperlukan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-estore.php:93
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-estore.php:88
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai perbarui plugin"
+msgstr[1] "Mulai perbarui plugin"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-estore.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai pasang plugin"
+msgstr[1] "Mulai pasang plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-estore.php:46
+msgid "Something went wrong with the plugin API."
+msgstr "Terjadi kesalahan dengan API plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-estore.php:45
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-estore.php:43
+msgid "Installing Plugin: %s"
+msgstr "Memasang Plugin: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-estore.php:41
+msgid "Install Plugins"
+msgstr "Pasang Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-estore.php:40
+msgid "Install Required Plugins"
+msgstr "Pasang Plugin yang Diperlukan"
+
+#: inc/customizer.php:111
+msgid "Position One: Display Header Media just above the site Title/Text"
+msgstr "Posisi Satu:Tampilkan Media Header tepat diatas Judul situs"
+
+#: inc/customizer.php:112
+msgid "Postion Two: Display Header Media just below the Main/Primary Menu"
+msgstr "Posisi Dua: Tampilkan Media Header tepat dibawah Menu Utama"
+
+#: inc/customizer.php:107
+msgid "Choose the required option for Header Media placement"
+msgstr "Pilihlah opsi yang diperlukan untuk penempatan Media Header"
+
+#: inc/woocommerce.php:241
+msgid "Check to hide hover effect on Product Images in WooCommerce Archive Pages."
+msgstr "Centang untuk menyembunyikan efek sentuh pada Gambar Produk di Laman Arsip WooCommerce."
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:73
+msgid "Check to hide image hover effect."
+msgstr "Centang untuk menyembunyikan efek sentuh gambar."
+
+#: inc/widgets/class-estore-728x90-ad.php:46
+#: inc/widgets/class-estore-posts-grid.php:59
+#: inc/widgets/class-estore-woocommerce-product-grid.php:59
+#: inc/widgets/classs-estore-logo-widget.php:67
+msgid "Select an Image"
+msgstr "Pilih gambar"
+
+#: inc/widgets/class-estore-728x90-ad.php:46
+#: inc/widgets/class-estore-posts-grid.php:59
+#: inc/widgets/class-estore-woocommerce-product-grid.php:59
+#: inc/widgets/classs-estore-logo-widget.php:67
+msgid "Use image"
+msgstr "Gunakan gambar"
+
+#: inc/widgets/class-estore-728x90-ad.php:46
+#: inc/widgets/class-estore-posts-grid.php:59
+#: inc/widgets/class-estore-woocommerce-product-grid.php:59
+#: inc/widgets/classs-estore-logo-widget.php:67
+msgid "Choose an image"
+msgstr "Pilih sebuah gambar"
+
+#: inc/customizer.php:469
+msgid "Blog Layout"
+msgstr "Tata Letak Blog"
+
+#: inc/customizer.php:486
+msgid "Choose the layout style for archive pages."
+msgstr "Tentukan gaya tata letak untuk laman arsip."
+
+#: inc/customizer.php:490
+msgid "List View"
+msgstr "Tampilan Daftar"
+
+#: inc/customizer.php:491
+msgid "Grid View"
+msgstr "Tampilan Kisi"
+
+#: inc/admin/class-estore-admin.php:36 inc/admin/class-estore-admin.php:118
+msgid "About"
+msgstr "Tentang"
+
+#: inc/admin/class-estore-admin.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Gagal. Silahkan muat ulang laman dan coba lagi."
+
+#: inc/admin/class-estore-admin.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-estore-admin.php:94
+msgid "Dismiss"
+msgstr "Abaikan"
+
+#: inc/admin/class-estore-admin.php:95
+msgid "Welcome! Thank you for choosing eStore! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Selamat Datang! Terimakasih telah memilih eStore! Untuk mendapatkan semua manfaat yang bisa diberikan tema ini harap pastikan Anda mengunjungi %swelcome page%s kami."
+
+#: inc/admin/class-estore-admin.php:98
+msgid "Get started with eStore"
+msgstr "Mulai eStore"
+
+#: inc/admin/class-estore-admin.php:120
+msgid "%s"
+msgstr "%s"
+
+#: inc/admin/class-estore-admin.php:141 inc/admin/class-estore-admin.php:240
+#: inc/admin/class-estore-admin.php:565
+msgid "View Pro"
+msgstr "Lihat Pro"
+
+#: inc/admin/class-estore-admin.php:161
+msgid "Supported Plugins"
+msgstr "Plugin Dukungan"
+
+#: inc/admin/class-estore-admin.php:169
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/admin/class-estore-admin.php:177
+msgid "Changelog"
+msgstr "Catatan Perubahan"
+
+#: inc/admin/class-estore-admin.php:211
+msgid "Theme Customizer"
+msgstr "Penyesuai Tema"
+
+#: inc/admin/class-estore-admin.php:212
+msgid "All Theme Options are available via Customize screen."
+msgstr "Semua Opsi Tema tersedia lewat layar Kustomisasi."
+
+#: inc/admin/class-estore-admin.php:214
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: inc/admin/class-estore-admin.php:219
+msgid "Please view our documentation page to setup the theme."
+msgstr "Silahkan lihat laman dokumentasi kami untuk mengatur tema."
+
+#: inc/admin/class-estore-admin.php:227
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar tema?"
+
+#: inc/admin/class-estore-admin.php:228
+msgid "Please put it in our dedicated support forum."
+msgstr "Silahkan ajukan di forum dukungan khusus."
+
+#: inc/admin/class-estore-admin.php:231
+msgid "Support Forum"
+msgstr "Forum Bantuan"
+
+#: inc/admin/class-estore-admin.php:236
+msgid "Need more features?"
+msgstr "Butuh fitur lebih?"
+
+#: inc/admin/class-estore-admin.php:237 inc/admin/class-estore-admin.php:390
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Tingkatkan ke versi PRO untuk fitur menarik lainnya."
+
+#: inc/admin/class-estore-admin.php:245
+msgid "Got sales related question?"
+msgstr "Ada pertanyaan seputar penjualan?"
+
+#: inc/admin/class-estore-admin.php:246
+msgid "Please send it via our sales contact page."
+msgstr "Silahkan kirimkan ke laman kontak penjualan kami."
+
+#: inc/admin/class-estore-admin.php:249
+msgid "Contact Page"
+msgstr "Laman Kontak"
+
+#: inc/admin/class-estore-admin.php:256 inc/admin/class-estore-admin.php:265
+msgid "Translate"
+msgstr "Terjemahkan"
+
+#: inc/admin/class-estore-admin.php:260
+msgid "Click below to translate this theme into your own language."
+msgstr "Klik dibawah untuk menerjemahkan tema ini kedalam bahasa Anda."
+
+#: inc/admin/class-estore-admin.php:277
+msgid "Return to Updates"
+msgstr "Kembali ke Pembaruan"
+
+#: inc/admin/class-estore-admin.php:277
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Kembali ke Dasbor &rarr; Pembaruan"
+
+#: inc/admin/class-estore-admin.php:280
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Kembali ke Dasbor &rarr; Beranda"
+
+#: inc/admin/class-estore-admin.php:280
+msgid "Go to Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/admin/class-estore-admin.php:297
+msgid "View changelog below."
+msgstr "Lihat catatan perubahan dibawah."
+
+#: inc/admin/class-estore-admin.php:351
+msgid "This theme recommends following plugins."
+msgstr "Tema ini menyarankan plugin berikut."
+
+#: inc/admin/class-estore-admin.php:354
+msgid "Social Icons"
+msgstr "Ikon Sosial"
+
+#: inc/admin/class-estore-admin.php:355 inc/admin/class-estore-admin.php:359
+#: inc/admin/class-estore-admin.php:363
+msgid " by ThemeGrill"
+msgstr "oleh ThemeGrill"
+
+#: inc/admin/class-estore-admin.php:358
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/admin/class-estore-admin.php:366
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-estore-admin.php:368
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-estore-admin.php:370
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: inc/admin/class-estore-admin.php:373
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-estore-admin.php:395
+msgid "Features"
+msgstr "Fitur"
+
+#: inc/admin/class-estore-admin.php:397
+msgid "eStore Pro"
+msgstr "eStore Pro"
+
+#: inc/admin/class-estore-admin.php:402
+msgid "Different Header Layouts"
+msgstr "Tata Letak Header Berbeda"
+
+#: inc/admin/class-estore-admin.php:403
+msgid "Default header layout (free)"
+msgstr "Tata letak header bawaan (gratis)"
+
+#: inc/admin/class-estore-admin.php:404
+msgid "3 different header layouts"
+msgstr "3 perbedaan tata letak header"
+
+#: inc/admin/class-estore-admin.php:407
+msgid "Google Fonts Option"
+msgstr "Opsi Google Font"
+
+#: inc/admin/class-estore-admin.php:409
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-estore-admin.php:412
+msgid "Font Size options"
+msgstr "Opsi ukuran font"
+
+#: inc/admin/class-estore-admin.php:417
+msgid "Color Palette"
+msgstr "Color Palette"
+
+#: inc/admin/class-estore-admin.php:419
+msgid "Multiple Color Options"
+msgstr "Opsi Warna Ganda"
+
+#: inc/admin/class-estore-admin.php:422
+msgid "Translation Ready"
+msgstr "Terjemahan Siap"
+
+#: inc/admin/class-estore-admin.php:427
+msgid "Woocommerce Compatible"
+msgstr "Kecocokkan dengan Woocommerce"
+
+#: inc/admin/class-estore-admin.php:432
+msgid "YITH Wishlist Compatible"
+msgstr "Kecocokkan dengan YITH Wishlist"
+
+#: inc/admin/class-estore-admin.php:437
+msgid "WPML Compatible"
+msgstr "Kecocokkan dengan WPML"
+
+#: inc/admin/class-estore-admin.php:442
+msgid "RTL Support"
+msgstr "Mendukung RTL"
+
+#: inc/admin/class-estore-admin.php:447
+msgid "Footer Copyright Editor"
+msgstr "Peyunting Hak Cipta Footer"
+
+#: inc/admin/class-estore-admin.php:452
+msgid "Footer Widgets Column"
+msgstr "Kolom Widget Footer"
+
+#: inc/admin/class-estore-admin.php:453 inc/admin/class-estore-admin.php:454
+msgid "1,2,3,4 Columns"
+msgstr "1,2,3,4 Kolom"
+
+#: inc/admin/class-estore-admin.php:457
+msgid "Demo Content"
+msgstr "Konten Demo"
+
+#: inc/admin/class-estore-admin.php:463
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-estore-admin.php:464
+msgid "Forum + Emails/Support Ticket"
+msgstr "Forum + Email/Tiket Bantuan"
+
+#: inc/admin/class-estore-admin.php:467
+msgid "Extra Options on Widgets"
+msgstr "Opsi Lebih pada Widget"
+
+#: inc/admin/class-estore-admin.php:517
+msgid "TG: Product grid"
+msgstr "TG: Kisi produk"
+
+#: inc/admin/class-estore-admin.php:522
+msgid "TG: Logos"
+msgstr "TG: Logo"
+
+#: inc/admin/class-estore-admin.php:532
+msgid "TG: Product slider"
+msgstr "TG: Slider produk"
+
+#: inc/admin/class-estore-admin.php:547
+msgid "TG: Testimonials"
+msgstr "TG: Testimonial"
+
+#: inc/admin/class-estore-admin.php:552
+msgid "TG: Icon Text"
+msgstr "TG: Ikon Teks"
+
+#: inc/admin/class-estore-admin.php:557
+msgid "TG: Products Tab"
+msgstr "TG: Tab Produk"
+
+#: navigation.php:21 navigation.php:33
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: navigation.php:22 navigation.php:34
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:41
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:42
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/admin/class-estore-admin.php:138
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/admin/class-estore-admin.php:145
+msgid "Rate this theme"
+msgstr "Merating Tema ini"
+
+#: inc/admin/class-estore-admin.php:218 inc/admin/class-estore-admin.php:222
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/admin/class-estore-admin.php:462
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/admin/class-estore-admin.php:134
+msgid "Theme Info"
+msgstr "Info Tema"
+
+#: inc/admin/class-estore-admin.php:537
+#: inc/widgets/class-estore-vertical-promo-widget.php:12
+msgid "TG: Vertical Promo"
+msgstr "TG: Promo Vertikal"
+
+#: inc/widgets/class-estore-vertical-promo-widget.php:7
+msgid "Display some pages in vertical layout with featured image."
+msgstr "Tampilkan beberapa halaman dalam tata letak vertikal dengan gambar andalan.. "
+
+#: inc/widgets/class-estore-full-width-promo-widget.php:29
+#: inc/widgets/class-estore-vertical-promo-widget.php:29
+msgid "Pages"
+msgstr "Laman"
+
+#: inc/widgets/class-estore-728x90-ad.php:7
+msgid "Add your Advertisement here"
+msgstr "Tambahkan iklan Anda disini"
+
+#: inc/admin/class-estore-admin.php:477
+#: inc/widgets/class-estore-728x90-ad.php:13
+msgid "TG: Advertisement"
+msgstr "TG: Iklan"
+
+#: inc/admin/class-estore-admin.php:502
+#: inc/widgets/class-estore-full-width-promo-widget.php:12
+msgid "TG: Horizontal Promo"
+msgstr "TG: Promo Horizontal"
+
+#: inc/widgets/class-estore-728x90-ad.php:32
+msgid "Add your Advertisement Images Here. Any size supported."
+msgstr "Tambahkan gambar iklan Anda disini. Mendukung semua ukuran."
+
+#: inc/widgets/class-estore-full-width-promo-widget.php:7
+msgid "Display some pages with featured image in horizontal layout."
+msgstr "Tampilkan beberapa halaman dengan gambar andalan dalam tata letak horizontal."
+
+#. Template Name of the plugin/theme
+msgid "eStore Home"
+msgstr "Beranda eStore"
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce Category Collection"
+msgstr "Koleksi Kategori WooCommerce"
+
+#: woocommerce/single-product/related.php:26
+msgid "Related Products"
+msgstr "Produk Terkait"
+
+#: woocommerce/checkout/form-login.php:32
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr "Jika Anda pernah berbelanja dengan kami sebelumnya, silahkan masukkan rincian Anda pada kotak di bawah. Jika Anda adalah pelanggan baru, silahkan lanjutkan ke bagian Tagihan &amp; Pengiriman."
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "Klik di sini untuk masuk"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "Sudah jadi pelanggan?"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Anda harus masuk terlebih dahulu sebelum melakukan checkout."
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr "Pesanan Anda"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "Buat akun?"
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing details"
+msgstr "Rincian Tagihan"
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr "Anda mungkin tertarik dengan&hellip;"
+
+#: woocommerce/checkout/form-billing.php:26
+msgid "Billing &amp; Shipping"
+msgstr "Penagihan &amp; Pengiriman"
+
+#: woocommerce/cart/cart-totals.php:78
+msgid "estimated for %s"
+msgstr "diperkirakan %s"
+
+#: woocommerce/cart/cart-totals.php:63 woocommerce/cart/cart-totals.php:64
+msgid "Shipping"
+msgstr "Pengiriman"
+
+#: woocommerce/cart/cart-totals.php:41 woocommerce/cart/cart-totals.php:42
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: template-parts/content-single.php:36
+msgid "Tagged on: "
+msgstr "Di-tag pada:"
+
+#: woocommerce/cart/cart-totals.php:36
+msgid "Cart Totals"
+msgstr "Total Keranjang"
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:43
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Tak ada apapun"
+
+#: inc/functions.php:45 searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: no-results.php:28 template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: no-results.php:23 template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan kata kunci pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: no-results.php:18 template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulailah di sini</a>."
+
+#: inc/woocommerce.php:85
+msgid "Change WooCommerce settings related to theme."
+msgstr "Ganti pengaturan WooCommerce yang terkait dengan tema."
+
+#: inc/woocommerce.php:160
+msgid "Archive Page Layout"
+msgstr "Tata Letak Halaman Arsip"
+
+#: inc/woocommerce.php:179
+msgid "This layout will be reflected in archives, categories, search page etc. of WooCommerce."
+msgstr "Tata letak ini akan tampak pada halaman arsip, kategori, pencarian, dll. dari WooCommerce"
+
+#: inc/woocommerce.php:216
+msgid "This layout will be reflected in product page of WooCommerce."
+msgstr "Tata letak ini akan diterapkan di halaman produk WooCommerce."
+
+#: inc/woocommerce.php:97
+msgid "Enable My Account Button"
+msgstr "Adakan Tombol Akun Saya"
+
+#: inc/woocommerce.php:113
+msgid "Enable Currency Symbol"
+msgstr "Adakan Simbol Mata Uang"
+
+#: inc/woocommerce.php:197
+msgid "Product Page Layout"
+msgstr "Tata Letak Halaman Produk"
+
+#: inc/woocommerce.php:83
+msgid "WooCommerce Settings"
+msgstr "Pengaturan Woocommerce"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:8
+msgid "Display latest posts or posts of specific category, which will be used as the carousel."
+msgstr "Tampilkan pos terbaru atau pos dari suatu kategori yang akan digunakan sebagai carousel."
+
+#: inc/admin/class-estore-admin.php:482
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:15
+msgid "TG: Category Carousel"
+msgstr "TG: Kategori Carousel"
+
+#: inc/widgets/class-estore-posts-grid.php:7
+msgid "Show Featured Category Posts in Grid Layout."
+msgstr "Tampilkan Kategori Andalan Pos dalam Tata Letak Kisi."
+
+#: inc/admin/class-estore-admin.php:487
+#: inc/widgets/class-estore-posts-grid.php:13
+msgid "TG: Category Grid"
+msgstr "TG: Kategori Kisi"
+
+#: inc/widgets/class-estore-posts-grid.php:84
+msgid "Number of Posts:"
+msgstr "Jumlah Pos:"
+
+#: inc/woocommerce.php:57
+msgid "Shop Sidebar"
+msgstr "Sidebar Toko"
+
+#: inc/woocommerce.php:59
+msgid "Widget area for WooCommerce Pages."
+msgstr "Area widget untuk Halaman WooCommerce."
+
+#: inc/widgets/class-estore-woocommerce-product-slider.php:8
+msgid "Display WooCommerce Product from category."
+msgstr "Tampilkan produk WooCommerce dari kategori."
+
+#: inc/widgets/class-estore-woocommerce-product-slider.php:15
+msgid "TG: Product Slider"
+msgstr "TG: Slider Produk"
+
+#: inc/widgets/class-estore-woocommerce-product-slider.php:31
+msgid "Number of products to display:"
+msgstr "Jumlah produk yang ditampilkan:"
+
+#: inc/widgets/class-estore-woocommerce-product-slider.php:36
+msgid "Show Latest Products"
+msgstr "Tampilkan Produk Terbaru"
+
+#: inc/widgets/class-estore-woocommerce-product-slider.php:37
+msgid "Show Products from a category"
+msgstr "Tampilkan produk dari kategori"
+
+#: inc/widgets/class-estore-woocommerce-product-slider.php:130
+msgid "Add to Cart"
+msgstr "Tambah ke Keranjang"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:159
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:104
+msgid "Read More"
+msgstr "Baca Selanjutnya"
+
+#: inc/admin/class-estore-admin.php:512
+#: inc/widgets/classs-estore-logo-widget.php:13
+msgid "TG: Logo"
+msgstr "TG: Logo"
+
+#: inc/widgets/classs-estore-logo-widget.php:59
+msgid "Logo Image "
+msgstr "Gambar Logo"
+
+#: inc/admin/class-estore-admin.php:492
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:15
+msgid "TG: Category Slider"
+msgstr "TG: Slider Kategori"
+
+#: inc/widgets/classs-estore-logo-widget.php:7
+msgid "Add your clients/brand logo images here"
+msgstr "Tambahkan gambar logo klien/brand Anda disini"
+
+#: inc/widgets/classs-estore-logo-widget.php:48
+msgid "Add your clients/brands logo Here"
+msgstr "Tambahkan logo klien/merk Anda disini"
+
+#: inc/widgets/classs-estore-logo-widget.php:55
+msgid "Logo Link "
+msgstr "Link Logo"
+
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:8
+msgid "Display latest posts or posts of specific category, which will be used as the slider."
+msgstr "Tampilkan pos terbaru atau pos dari kategori, akan digunakan sebagai slider. "
+
+#: inc/widgets/class-estore-featured-posts-widget.php:145
+#: template-parts/content.php:38
+msgid "Read more"
+msgstr "Selanjutnya"
+
+#: inc/widgets/class-estore-featured-posts-widget.php:120
+msgid "Blog Image"
+msgstr "Gambar Blog"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:53
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:41
+#: inc/widgets/class-estore-featured-posts-widget.php:47
+#: inc/widgets/class-estore-woocommerce-product-slider.php:41
+msgid "Select category"
+msgstr "Pilih Kategori"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:49
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:37
+#: inc/widgets/class-estore-featured-posts-widget.php:43
+msgid "Show posts from a category"
+msgstr "Tampilkan pos dari kategori"
+
+#: inc/widgets/class-estore-woocommerce-product-grid.php:267
+#: woocommerce/loop/price.php:26
+msgid "Price: "
+msgstr "Harga:"
+
+#: inc/widgets/class-estore-featured-posts-widget.php:8
+msgid "Display latest posts or posts of specific category"
+msgstr "Tampilkan pos terbaru atau pos dari kategori"
+
+#: inc/admin/class-estore-admin.php:497
+#: inc/widgets/class-estore-featured-posts-widget.php:14
+msgid "TG: Featured Posts"
+msgstr "TG: Pos Andalan"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:43
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:31
+#: inc/widgets/class-estore-featured-posts-widget.php:37
+msgid "Number of posts to display:"
+msgstr "Jumlah pos yang ditampilkan:"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:48
+#: inc/widgets/class-estore-featured-posts-slider-widget.php:36
+#: inc/widgets/class-estore-featured-posts-widget.php:42
+msgid "Show latest Posts"
+msgstr "Tampilkan Pos terbaru"
+
+#: inc/widgets/class-estore-woocommerce-product-grid.php:200
+msgid "Hot products"
+msgstr "Produk laris"
+
+#: inc/widgets/class-estore-posts-grid.php:153
+#: inc/widgets/class-estore-woocommerce-product-grid.php:173
+#: page-templates/template-wc-collection.php:61
+msgid "View all"
+msgstr "Lihat Semua"
+
+#: inc/widgets/class-estore-posts-grid.php:51
+#: inc/widgets/class-estore-woocommerce-product-grid.php:51
+msgid "Category Image"
+msgstr "Gambar Kategori"
+
+#: inc/widgets/class-estore-posts-grid.php:66
+#: inc/widgets/class-estore-woocommerce-product-grid.php:66
+msgid "Right Align"
+msgstr "Rata Kanan"
+
+#: inc/widgets/class-estore-posts-grid.php:67
+#: inc/widgets/class-estore-woocommerce-product-grid.php:67
+msgid "Left Align"
+msgstr "Rata Kiri"
+
+#: inc/widgets/class-estore-posts-grid.php:63
+#: inc/widgets/class-estore-woocommerce-product-grid.php:63
+msgid "Choose where to align your image."
+msgstr "Tentukan dimana menyelaraskan gambar Anda."
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:239
+#: inc/widgets/class-estore-woocommerce-product-grid.php:238
+#: inc/widgets/class-estore-woocommerce-product-grid.php:274
+msgid "Add to Wishlist"
+msgstr "Tambahkan ke Daftar Keinginan"
+
+#: inc/widgets/class-estore-woocommerce-product-grid.php:13
+msgid "TG: Product Grid"
+msgstr "TG: Kisi Produk"
+
+#: inc/widgets/class-estore-posts-grid.php:44
+#: inc/widgets/class-estore-woocommerce-product-grid.php:44
+msgid "Add your Category Image here."
+msgstr "Tambahkan Gambar Kategori Anda disini."
+
+#: inc/widgets/class-estore-woocommerce-product-grid.php:7
+msgid "Show WooCommerce Featured Products Grid."
+msgstr "Tampilkan Kisi Produk Andalan WooCommerce."
+
+#: inc/widgets/class-estore-posts-grid.php:47
+#: inc/widgets/class-estore-woocommerce-product-grid.php:47
+msgid "Image Link"
+msgstr "Link Gambar"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:232
+msgid "Price:"
+msgstr "Harga:"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:206
+#: inc/widgets/class-estore-woocommerce-product-grid.php:220
+#: inc/woocommerce.php:321 inc/woocommerce.php:345
+msgid "Sale!"
+msgstr "Diskon!"
+
+#: inc/widgets/class-estore-posts-grid.php:71
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:53
+#: inc/widgets/class-estore-woocommerce-product-grid.php:71
+msgid "Category:"
+msgstr "Kategori:"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:47
+msgid "On Sale Products"
+msgstr "Produk Diskon"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:48
+msgid "Certain Category"
+msgstr "Kategori Tertentu"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:68
+#: inc/widgets/class-estore-woocommerce-product-grid.php:85
+msgid "Number of Products:"
+msgstr "Jumlah Produk:"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:46
+msgid "Featured Products"
+msgstr "Produk Unggulan"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:43
+msgid "Product Source:"
+msgstr "Sumber Produk:"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:45
+msgid "Latest Products"
+msgstr "Produk Terbaru"
+
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:39
+#: inc/widgets/class-estore-posts-grid.php:41
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:39
+#: inc/widgets/class-estore-woocommerce-product-grid.php:41
+msgid "Description:"
+msgstr "Deskripsi:"
+
+#: inc/widgets/class-estore-woocommerce-vertical-promo-widget.php:7
+msgid "Display WooCommerce Product Categories in vertical layout with featured image."
+msgstr "Tampilkan Kategori Produk WooCommerce dalam tata letak vertikal dengan gambar andalan."
+
+#: inc/admin/class-estore-admin.php:542
+#: inc/widgets/class-estore-woocommerce-vertical-promo-widget.php:12
+msgid "TG: Vertical Promo WC Category"
+msgstr "TG: Promo Vertikal Kategori WC"
+
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:7
+msgid "Show WooCommerce Featured Products Carousel."
+msgstr "Tampilkan Carousel Produk Andalan WooCommerce."
+
+#: inc/admin/class-estore-admin.php:527
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:13
+msgid "TG: Products Carousel"
+msgstr "TG: Carousel Produk"
+
+#: inc/widgets/class-estore-woocommerce-full-width-promo-widget.php:29
+#: inc/widgets/class-estore-woocommerce-vertical-promo-widget.php:29
+msgid "Category"
+msgstr "Katagori"
+
+#: inc/admin/class-estore-admin.php:472 inc/widgets/class-estore-about.php:13
+msgid "TG: About Widget"
+msgstr "TG: Widget Tentang"
+
+#: inc/widgets/class-estore-about.php:7
+msgid "Show your about page. Suitable for Click to Action."
+msgstr "Tampilkan halaman tentang Anda. Cocok untuk Tombol Tindakan."
+
+#: inc/widgets/class-estore-about.php:31
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Pilih sebuah halaman untuk menampilkan Judul, Kutipan, dan Gambar Andalan."
+
+#: inc/widgets/class-estore-woocommerce-full-width-promo-widget.php:7
+msgid "Display WooCommerce Product Categories with featured image in horizontal layout."
+msgstr "Tampilkan Kategori Produk WooCommerce dengan gambar andalan dalam tata letak horizontal."
+
+#: inc/admin/class-estore-admin.php:507
+#: inc/widgets/class-estore-woocommerce-full-width-promo-widget.php:12
+msgid "TG: Horizontal Promo WC Category"
+msgstr "TG: Promo Horizontal Kategori WC"
+
+#: inc/widgets/class-estore-728x90-ad.php:38
+msgid "Advertisement Image "
+msgstr "Gambar Iklan"
+
+#: inc/widgets/class-estore-728x90-ad.php:34
+msgid "Advertisement Image Link "
+msgstr "Link Gambar Iklan"
+
+#: inc/widgets/class-estore-728x90-ad.php:29
+#: inc/widgets/class-estore-about.php:27
+#: inc/widgets/class-estore-featured-posts-carousel-widget.php:35
+#: inc/widgets/class-estore-featured-posts-widget.php:33
+#: inc/widgets/class-estore-posts-grid.php:37
+#: inc/widgets/class-estore-woocommerce-product-carousel.php:35
+#: inc/widgets/class-estore-woocommerce-product-grid.php:37
+#: inc/widgets/classs-estore-logo-widget.php:45
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets.php:109
+msgid "Footer Sidebar 3"
+msgstr "Sidebar Footer 3"
+
+#: inc/widgets.php:121
+msgid "Footer Sidebar 4"
+msgstr "Sidebar Footer 4"
+
+#: inc/widgets.php:40
+msgid "Header Right Sidebar"
+msgstr "Header Sidebar Kanan"
+
+#: inc/widgets.php:51
+msgid "Front Page: Slider Area"
+msgstr "Laman Depan: Area Slider"
+
+#: inc/widgets.php:62
+msgid "Front Page: Area beside Slider"
+msgstr "Laman Depan: Area disamping Slider"
+
+#: inc/widgets.php:73
+msgid "Front Page Sidebar"
+msgstr "Sidebar Laman Depan"
+
+#: inc/widgets.php:86
+msgid "Footer Sidebar 1"
+msgstr "Sidebar Footer 1"
+
+#: inc/widgets.php:88 inc/widgets.php:99 inc/widgets.php:111
+#: inc/widgets.php:123
+msgid "Show widgets at Footer section"
+msgstr "Tampilkan widget di bagian Footer"
+
+#: inc/widgets.php:97
+msgid "Footer Sidebar 2"
+msgstr "Sidebar Footer 2"
+
+#: inc/estore.php:201 inc/widgets/class-estore-about.php:32
+msgid "Page"
+msgstr "Laman"
+
+#: inc/estore.php:94
+msgid "Archive by Category \"%s\""
+msgstr "Arsip berdasarkan Kategori \"%s\""
+
+#: inc/estore.php:95
+msgid "Archive for \"%s\""
+msgstr "Arsip untuk \"%s\""
+
+#: inc/estore.php:96
+msgid "Search Results for \"%s\" query"
+msgstr "Hasil Pencarian untuk kata kunci \"%s\""
+
+#: inc/estore.php:97
+msgid "Posts Tagged \"%s\""
+msgstr "Pos Tag \"%s\""
+
+#: inc/estore.php:98
+msgid "Articles Posted by %s"
+msgstr "Artikel Dipos oleh %s"
+
+#: inc/estore.php:99
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/estore.php:93
+msgid "Home"
+msgstr "Beranda"
+
+#: inc/estore.php:24 inc/related-posts.php:34
+#: inc/widgets/class-estore-featured-posts-widget.php:133
+#: inc/widgets/class-estore-posts-grid.php:227
+msgid " % Comments"
+msgstr "% Komentar"
+
+#: inc/estore.php:24 inc/related-posts.php:34
+#: inc/widgets/class-estore-featured-posts-widget.php:133
+#: inc/widgets/class-estore-posts-grid.php:227
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/customizer.php:635 inc/woocommerce.php:122
+msgid "Category Color Settings"
+msgstr "Pengaturan Warna Kategori"
+
+#: inc/customizer.php:658 inc/woocommerce.php:145
+msgid " %s"
+msgstr "%s"
+
+#: inc/estore.php:24 inc/related-posts.php:34
+#: inc/widgets/class-estore-featured-posts-widget.php:133
+#: inc/widgets/class-estore-posts-grid.php:227
+msgid "0 Comment"
+msgstr "0 Komentar"
+
+#: inc/customizer.php:673
+msgid "Post Meta Settings"
+msgstr "Pengaturan Meta Pos"
+
+#: inc/customizer.php:675
+msgid "Note: This will only work in single posts."
+msgstr "Catatan: Hal ini hanya akan berpengaruh pada pos tunggal."
+
+#: inc/customizer.php:692
+msgid "Hide all post meta data under post title."
+msgstr "Sembunyikan semua meta data pos di bawah judul pos."
+
+#: inc/customizer.php:712
+msgid "Hide date under post title."
+msgstr "Sembunyikan tanggal dibawah judul pos."
+
+#: inc/customizer.php:732
+msgid "Hide author under post title."
+msgstr "Sembunyikan nama penulis dibawah judul pos."
+
+#: inc/customizer.php:752
+msgid "Hide comment count under post title."
+msgstr "Sembunyikan jumlah komentar dibawah judul pos."
+
+#: inc/customizer.php:772
+msgid "Hide category under post title."
+msgstr "Sembunyikan kategori dibawah judul pos."
+
+#: inc/customizer.php:792
+msgid "Hide tags under post title."
+msgstr "Sembunyikan tag dibawah judul pos."
+
+#: inc/customizer.php:804
+msgid "Payment Partners Logo"
+msgstr "Logo Kerjasama Pembayaran"
+
+#: inc/customizer.php:569
+msgid "Some additional settings."
+msgstr "Beberapa pengaturan tambahan."
+
+#: inc/customizer.php:571
+msgid "Additional Options"
+msgstr "Opsi Tambahan"
+
+#: inc/customizer.php:522
+msgid "Write your Custom CSS here"
+msgstr "Tulis CSS Kustom Anda di sini"
+
+#: inc/customizer.php:533
+msgid "Footer Widgets"
+msgstr "Navigasi Footer"
+
+#: inc/customizer.php:550
+msgid "Choose the number of widget area you want in footer"
+msgstr "Pilih jumlah area widget yang Anda inginkan di footer"
+
+#: inc/customizer.php:554
+msgid "1 Footer Widget Area"
+msgstr "1 Area Widget Footer"
+
+#: inc/customizer.php:555
+msgid "2 Footer Widget Area"
+msgstr "2 Area Widget Footer"
+
+#: inc/customizer.php:556
+msgid "3 Footer Widget Area"
+msgstr "3 Area Widget Footer"
+
+#: inc/customizer.php:557
+msgid "4 Footer Widget Area"
+msgstr "4 Area Widget Footer"
+
+#: inc/customizer.php:502
+msgid "Custom CSS"
+msgstr "CSS Kustom"
+
+#: inc/customizer.php:315
+msgid "Design Related Settings"
+msgstr "Pengaturan Terkait Desain"
+
+#: inc/customizer.php:317
+msgid "Design Options"
+msgstr "Opsi Desain"
+
+#: inc/admin/class-estore-admin.php:418 inc/customizer.php:326
+msgid "Primary Color Option"
+msgstr "Opsi Warna Utama"
+
+#: inc/customizer.php:414
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Pilih tata letak bawaan untuk halaman. Tata letak ini akan tampak pada semua halaman kecuali ada tata letak unik yang ditetapkan untuk halaman khusus"
+
+#: inc/customizer.php:260
+msgid "Paste the Font Awesome icon font"
+msgstr "Tempel font ikon Font Awesome"
+
+#: inc/customizer.php:347
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Akan tampak pada link, tombol, dan banyak hal lain. Pilih sebuah warna yang cocok untuk situs Anda"
+
+#: inc/customizer.php:377
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Pilih tata letak bawaan. Tata letak ini akan tampak pada seluruh halaman arsip, kategori, pencarian, dll. Tata letak untuk pos dan laman tunggal dapat diatur melalui opsi di bawah."
+
+#: inc/customizer.php:395
+msgid "Default Page Layout"
+msgstr "Tata Letak Laman Bawaan"
+
+#: inc/customizer.php:432
+msgid "Default Single Post Layout"
+msgstr "Tata Letak Pos Tunggal Bawaan"
+
+#: inc/customizer.php:451
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Pilih tata letak bawaan untuk pos tunggal. Tata letak ini akan tampak pada seluruh pos tunggal kecuali ada tata letak unik yang ditetapkan untuk pos tertentu"
+
+#: inc/customizer.php:219
+msgid "Header Top Bar"
+msgstr "Bar Atas Header"
+
+#: inc/customizer.php:237
+msgid "Activate the header top bar"
+msgstr "Aktifkan bar atas header"
+
+#: inc/customizer.php:259
+msgid "Header Text"
+msgstr "Teks Header"
+
+#: inc/customizer.php:202
+msgid "Choose the required option"
+msgstr "Tentukan opsi yang diperlukan"
+
+#: inc/customizer.php:206
+msgid "Header Logo Only"
+msgstr "Hanya Logo Header"
+
+#: inc/customizer.php:207
+msgid "Header Text Only"
+msgstr "Hanya Teks Header"
+
+#: inc/customizer.php:208
+msgid "Show both header logo and text"
+msgstr "Tampilkan logo dan teks header"
+
+#: inc/customizer.php:209
+msgid "Disable"
+msgstr "Tiadakan"
+
+#: inc/customizer.php:180 inc/customizer.php:826
+msgid "Upload logo"
+msgstr "Unggah Logo"
+
+#: inc/customizer.php:146
+msgid "Enable Language Selection (WPML)"
+msgstr "Aktifkan Pilihan Bahasa (WPML)"
+
+#: inc/customizer.php:133
+msgid "Header Integrations"
+msgstr "Integrasi Header"
+
+#: inc/customizer.php:159
+msgid "Header Logo"
+msgstr "Logo Header"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Lebar Penuh Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Konten Tengah Tanpa Sidebar"
+
+#: inc/customizer.php:124
+msgid "Change Header Settings here"
+msgstr "Ganti Pengaturan Header disini"
+
+#: inc/customizer.php:126
+msgid "Header Options"
+msgstr "Opsi Header"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets.php:30
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets.php:20
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/admin/meta-boxes.php:28 inc/customizer.php:358
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: header.php:223
+msgid "Login / Register"
+msgstr "Masuk / Daftar"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: header.php:172 inc/woocommerce.php:511 woocommerce/cart/cart-totals.php:99
+#: woocommerce/cart/cart-totals.php:100
+msgid "Total"
+msgstr "Total"
+
+#: header.php:72
+msgid "Login/Register"
+msgstr "Masuk/Daftar"
+
+#: header.php:73
+msgid "Login/ Register"
+msgstr "Masuk/ Daftar"
+
+#: header.php:68 header.php:69 header.php:219
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: functions.php:84
+msgid "Header Top Bar Menu"
+msgstr "Menu Bar Atas Header"
+
+#: functions.php:85
+msgid "Secondary Menu"
+msgstr "Menu Kedua"
+
+#: functions.php:83
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:20
+msgid "Proudly powered by %s."
+msgstr "Dengan bangga dipersembahkan oleh %s"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:46 comments.php:67
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:45 comments.php:66
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:42 comments.php:63
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:41
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Tampaknya tidak ada yang ditemukan disini. Gunakan fungsi pencarian di bawah ini."
+
+#: 404.php:38
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#: 404.php:35
+msgid "error"
+msgstr "error"
+
+#: 404.php:20 404.php:33
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.themegrill.com/themes/estore/"
+msgstr "http://www.themegrill.com/themes/estore/"
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Author URI of the plugin/theme
+msgid "https://www.themegrill.com"
+msgstr "http://www.themegrill.com"

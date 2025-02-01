@@ -1,0 +1,1330 @@
+# Translation of Themes - Azera Shop in Indonesian
+# This file is distributed under the same license as the Themes - Azera Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-31 04:43:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Azera Shop\n"
+
+#. Description of the plugin/theme
+msgid "Azera Shop is an elegant free WooCommerce WordPress theme, perfect for building an one page online store. Azera Shop is ecommerce ( Woo Commerce ) Compatible, WPML, RTL,Photo Gallery Grid, Contact Form 7, Meta Slider,SiteOrigin Page Builder, SEO Friendly and with parallax effect, full screen image is one of the best e-commerce themes and a good storefront alternative. The flat and simple design based on bootstrap template can work great for any business / startup, blog or photography site."
+msgstr "Azera Shop adalah tema Wordpress WooCommerce yang elegan nan gratis, cocok untuk membuat toko online one-page. Azera Shop cocok dengan ecommerce (WooCommerce), WPML, RTL, Photo Gallery Grid, Contact Form 7, Meta Slider, Site Origin Page Builder, SEO bersahabat dan dengan efek parallax, gambar selayar penuh merupakan salah satu terbaik pada tema ecommerce dan alternatif etalase barang. Desain rata dan simpel berdasarkan template bootstrap bisa berfungsi bagus untuk bisnis apapun / langkah awal, blog atau situs fotografi."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:112
+msgid "Install %1$s"
+msgstr "Pasang %1$s"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:102
+msgid "The %1$s plugin is a simple, easy and in the same time quite powerful plugins that adds options for Our Services, Our Team and Testimonials sections on frontpage."
+msgstr "Plugin %1$s simpel, mudah dan dalam waktu bersamaan sangat berfungsi menambahkan opsi untuk bagian Layanan Kami, Tim kami dan Testimonial pada laman depan."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:101
+msgid "Azera Shop Companion"
+msgstr "Azera Shop Companion"
+
+#. Template Name of the plugin/theme
+msgid "Page with right sidebar"
+msgstr "Laman dengan sidebar kanan"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Laman Depan"
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr "Kontak"
+
+#: sidebar.php:13
+msgid "Main sidebar"
+msgstr "Sidebar utama"
+
+#: sections/azera_shop_shortcodes_section.php:45
+msgid "Shortcodes"
+msgstr "Potongan kode"
+
+#: sections/azera_shop_ribbon_section.php:42
+#: sections/azera_shop_ribbon_section.php:44
+msgid "Ribbon button label:"
+msgstr "Label rombol Ribbon:"
+
+#: sections/azera_shop_ribbon_section.php:23
+#: sections/azera_shop_ribbon_section.php:25
+#: sections/azera_shop_ribbon_section.php:61
+#: sections/azera_shop_ribbon_section.php:63
+msgid "Ribbon"
+msgstr "Ribbon"
+
+#: sections/azera_shop_logos_section.php:48
+msgid "Affiliates Logos"
+msgstr "Logo Afiliasi"
+
+#: sections/azera_shop_header_section.php:99
+#: sections/azera_shop_header_section.php:102
+#: sections/azera_shop_header_section.php:104
+msgid "Header button label:"
+msgstr "Label tombol header:"
+
+#: sections/azera_shop_contact_info_section.php:34
+msgid "Contact Info"
+msgstr "Info Kontak"
+
+#. translators: Search query
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/template-tags.php:144
+msgid "Archives"
+msgstr "Arsip"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:142
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: archive title
+#: inc/template-tags.php:138
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#: inc/template-tags.php:135
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#. translators: archive day
+#: inc/template-tags.php:135
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/template-tags.php:132
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: archive month
+#: inc/template-tags.php:132
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/template-tags.php:129
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: archive year
+#: inc/template-tags.php:129
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#. translators: archive author
+#: inc/template-tags.php:126
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#. translators: archive tag
+#: inc/template-tags.php:123
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#. translators: archive category
+#: inc/template-tags.php:120
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "Beri komentar"
+
+#. translators: tags list
+#: inc/template-tags.php:92
+msgid "Tagged %1$s"
+msgstr "Tag %1$s"
+
+#. translators: categories list
+#: inc/template-tags.php:85
+msgid "Posted in %1$s"
+msgstr "Dipos di %1$s"
+
+#. translators: post author
+#: inc/template-tags.php:65
+msgctxt "post author"
+msgid "by %s"
+msgstr "oleh %s"
+
+#. translators: post date
+#: inc/template-tags.php:59
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Dipos pada %s"
+
+#: inc/template-tags.php:30
+msgid "Newer posts"
+msgstr "Pos baru"
+
+#: inc/template-tags.php:26
+msgid "Older posts"
+msgstr "Pos terdahulu"
+
+#. translators: page number
+#: inc/extras.php:53
+msgid "Page %s"
+msgstr "Laman %s"
+
+#: inc/customizer.php:644
+msgid "Blog header"
+msgstr "Header blog"
+
+#: inc/customizer.php:635
+msgid "If this box is checked, the preloader will be disabled from homepage."
+msgstr "Jika kotak ini dicentang, preloader akan ditiadakan dari laman depan."
+
+#: inc/customizer.php:634
+msgid "Disable preloader?"
+msgstr "Tiadakan preloader?"
+
+#: inc/customizer.php:583
+msgid "Azera Shop theme general options"
+msgstr "Opsi umum tema Azera Shop"
+
+#: inc/customizer.php:581
+msgid "Advanced options"
+msgstr "Opsi Lanjutan"
+
+#: inc/customizer.php:557
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: inc/customizer.php:541
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Footer area. "
+msgstr "Konten utama pada bagian ini bisa di kustom di: Kustomisasi -> Widget -> Area footer."
+
+#: inc/customizer.php:539
+msgid "Footer options"
+msgstr "Opsi footer"
+
+#: inc/customizer.php:518
+msgid "Create a form, copy the shortcode generated and paste it here. We recommend <a href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a> but you can use any plugin you like."
+msgstr "Buat form, salin hasil potongan kode dan tempel disini. Kami sarankan plugin <a href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a> tapi Anda boleh pilih plugin yang Anda suka."
+
+#: inc/customizer.php:517
+msgid "Contact form shortcode"
+msgstr "Potongan kode form kontak"
+
+#: inc/customizer.php:506
+msgid "Contact page"
+msgstr "Laman kontak"
+
+#: inc/customizer.php:497 inc/customizer.php:530
+msgid "To use this section please install <a href=\"https://wordpress.org/plugins/intergeo-maps/\">Intergeo Maps</a> plugin then use it to create a map and paste here the shortcode generated"
+msgstr "Untuk menggunakan bagian ini silahkan pasang plugin <a href=\"https://wordpress.org/plugins/intergeo-maps/\">Intergeo Maps</a> kemudian gunakan untuk membuat peta dan tempel potongan kode yang dihasilkannya disini"
+
+#: inc/customizer.php:496 inc/customizer.php:529
+msgid "Map shortcode"
+msgstr "Potongan kode peta"
+
+#: inc/customizer.php:481
+msgid "Add new contact field"
+msgstr "Tambahkan bidang kontak baru"
+
+#: inc/customizer.php:464 inc/customizer.php:469 inc/customizer.php:474
+#: sections/azera_shop_contact_info_section.php:13
+#: sections/azera_shop_contact_info_section.php:18
+#: sections/azera_shop_contact_info_section.php:23
+#: sections/azera_shop_ribbon_section.php:13
+msgid "Text from customizer."
+msgstr "Teks dari kustomisasi."
+
+#: inc/customizer.php:453
+msgid "Contact info section"
+msgstr "Bagian info kontak"
+
+#: inc/customizer.php:429
+msgid "Text from customizer"
+msgstr "Teks dari kustomisasi"
+
+#: inc/customizer.php:418 sections/azera_shop_ribbon_section.php:12
+msgid "In order to edit the text here you should go to customizer."
+msgstr "Untuk menyunting teks disini Anda perlu pergi ke kustomisasi."
+
+#: inc/customizer.php:412
+msgid "Ribbon Background"
+msgstr "Latar Belakang Ribbon"
+
+#: inc/customizer.php:399
+msgid "Ribbon section"
+msgstr "Bagian Ribbon"
+
+#: inc/customizer.php:387
+msgid "Edit the shortcode options"
+msgstr "Sunting opsi potongan kode"
+
+#: inc/customizer.php:377
+msgid "Shortcodes section"
+msgstr "Bagian potongan kode"
+
+#: inc/customizer.php:368
+msgid "Display products from"
+msgstr "Tampilkan produk dari"
+
+#: inc/customizer.php:354
+msgid "Number of products"
+msgstr "Jumlah produk"
+
+#: inc/customizer.php:338 sections/azera_shop_shop_section.php:11
+msgid "Showcase your work effectively and in an attractive form that your prospective clients will love."
+msgstr "Pamerkan kerjaan Anda lebih efektif dan dengan form atraktif yang mana calon klien akan menyukainya."
+
+#: inc/customizer.php:326 sections/azera_shop_shop_section.php:10
+#: sections/azera_shop_shop_section.php:15
+msgid "Shop"
+msgstr "Toko"
+
+#: inc/customizer.php:319
+msgid "Shop section"
+msgstr "Bagian toko"
+
+#: inc/customizer.php:307 inc/customizer.php:568
+msgid "Add new social icon"
+msgstr "Tambah ikon sosial baru"
+
+#: inc/customizer.php:265
+msgid "Logos Bar section"
+msgstr "Bagian Bar Logo"
+
+#: inc/customizer.php:257
+msgid "Second layer"
+msgstr "Lapisan kedua"
+
+#: inc/customizer.php:245
+msgid "First layer"
+msgstr "Lapisan pertama"
+
+#: inc/customizer.php:232
+msgid "If this box is checked, the parallax effect is enabled."
+msgstr "Jika kotak ini dicentang, efek parallax diaktfikan."
+
+#: inc/customizer.php:231
+msgid "Parallax effect"
+msgstr "Efek parallax"
+
+#: inc/customizer.php:219
+msgid "Big title section background"
+msgstr "Latar belakang bagian judul besar"
+
+#: inc/customizer.php:213 inc/customizer.php:444
+msgid "Button link"
+msgstr "Link tombol"
+
+#: inc/customizer.php:208
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:202 inc/customizer.php:434
+msgid "Button label"
+msgstr "Label tombol"
+
+#: inc/customizer.php:197 sections/azera_shop_header_section.php:13
+msgid "GET STARTED"
+msgstr "MULAI"
+
+#: inc/customizer.php:179 inc/customizer.php:331 inc/customizer.php:423
+msgid "Main title"
+msgstr "Judul utama"
+
+#: inc/customizer.php:154
+msgid "Layout"
+msgstr "Tata letak"
+
+#: inc/customizer.php:139
+msgid "Big title section"
+msgstr "Bagian judul besar"
+
+#: inc/customizer.php:132
+msgid "Frontpage sections"
+msgstr "Bagian laman depan"
+
+#: inc/customize-info/class/class-azera-shop-customize-upsell.php:80
+msgid "doc"
+msgstr "dok"
+
+#: inc/customize-info/class/class-azera-shop-customize-upsell.php:80
+msgid "Need further informations? Check this"
+msgstr "Perlu informasi lebih lanjut? Cek"
+
+#: inc/customizer.php:115
+msgid "If this box is checked, the header will toggle on frontpage."
+msgstr "Jika kotak ini dicentang, header akan mengalih ke laman depan."
+
+#: inc/customizer.php:114
+msgid "Header visibility"
+msgstr "Penampakan header"
+
+#: inc/customizer.php:100 sections/azera_shop_logos_section.php:80
+#: sections/azera_shop_logos_section.php:85
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:89
+msgid "Azera Shop theme general appearance options"
+msgstr "Opsi Tampilan umum tema Azera Shop"
+
+#: inc/customizer.php:87
+msgid "General options"
+msgstr "Opsi umum"
+
+#: inc/customizer.php:66
+msgid "Title color"
+msgstr "Warna judul"
+
+#: inc/customizer.php:49
+msgid "Text color"
+msgstr "Warna teks"
+
+#: inc/customizer.php:36
+msgid "Appearance"
+msgstr "Tampilan"
+
+#: inc/class/azera-shop-woocommerce-categories.php:57
+msgid "All Categories"
+msgstr "Semua kategori"
+
+#: inc/class/azera-shop-general-control.php:157
+msgid "Add new field"
+msgstr "Tambah bidang baru"
+
+#: inc/class/azera-shop-general-control.php:347
+#: inc/class/azera-shop-general-control.php:410
+msgid "Delete field"
+msgstr "Hapus bidang"
+
+#: inc/class/azera-shop-general-control.php:342
+#: inc/class/azera-shop-general-control.php:403
+msgid "Shortcode"
+msgstr "Potongan kode"
+
+#: inc/class/azera-shop-general-control.php:334
+#: inc/class/azera-shop-general-control.php:396
+msgid "Link"
+msgstr "Link"
+
+#: inc/class/azera-shop-general-control.php:326
+#: inc/class/azera-shop-general-control.php:388
+msgid "Text"
+msgstr "Teks"
+
+#: inc/class/azera-shop-general-control.php:319
+#: inc/class/azera-shop-general-control.php:381 inc/customizer.php:190
+#: inc/customizer.php:343 inc/customizer.php:667
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: inc/class/azera-shop-general-control.php:312
+#: inc/class/azera-shop-general-control.php:374 inc/customizer.php:656
+msgid "Title"
+msgstr "Judul"
+
+#: inc/class/azera-shop-general-control.php:206
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: inc/class/azera-shop-general-control.php:224
+msgid "None"
+msgstr "None"
+
+#: inc/class/azera-shop-general-control.php:203
+#: inc/class/azera-shop-general-control.php:223 inc/customizer.php:680
+msgid "Image"
+msgstr "Gambar"
+
+#: inc/class/azera-shop-general-control.php:183
+#: inc/class/azera-shop-general-control.php:222
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/class/azera-shop-general-control.php:219
+msgid "Image type"
+msgstr "Jenis gambar"
+
+#: inc/admin/welcome-screen/welcome-screen.php:184
+msgid "Change log"
+msgstr "Log aktifitas"
+
+#: inc/admin/welcome-screen/welcome-screen.php:183
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/admin/welcome-screen/welcome-screen.php:182
+msgid "Contribute"
+msgstr "Berkontribusi"
+
+#: inc/admin/welcome-screen/welcome-screen.php:181
+msgid "Actions recommended"
+msgstr "Tindakan disarankan"
+
+#: inc/admin/welcome-screen/welcome-screen.php:65
+msgid "Get started with Azera Shop"
+msgstr "Mulai dengan Azera Shop"
+
+#: inc/admin/welcome-screen/welcome-screen.php:64
+msgid "Welcome! Thank you for choosing Azera Shop! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Selamat Datang! Terimakasih sudah memilih Azera Shop! Untuk sepenuhnya mengambil keuntungan dari tema kami silahkan pastikan Anda mengunjungi %swelcome page%s kami."
+
+#: inc/admin/welcome-screen/welcome-screen.php:43
+msgid "About"
+msgstr "Tentang"
+
+#: inc/admin/welcome-screen/sections/support.php:20
+msgid "Support forum"
+msgstr "Forum bantuan"
+
+#: inc/admin/welcome-screen/sections/support.php:17
+msgid "Or would you like to contact us? Write on our support forum."
+msgstr "Atau inginkan Anda menghubungi kami? Tulislah di forum bantuan kami."
+
+#: inc/admin/welcome-screen/sections/support.php:14
+msgid "Azera Shop documentation"
+msgstr "Dokumentasi Azera Shop"
+
+#: inc/admin/welcome-screen/sections/support.php:11
+msgid "Please check our full documentation for detailed information on how to use Azera Shop."
+msgstr "Silahkan cek dokumentasi lengkap kami untuk informasi lebih rinci tentang penggunaan Azera Shop."
+
+#: inc/admin/welcome-screen/sections/support.php:9
+msgid "Need more details?"
+msgstr "Butuh lebih rinci?"
+
+#: inc/admin/welcome-screen/sections/github.php:42
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Ber nilai tema kami di %sWordPress.org%s. Kami sangat menghargai itu!"
+
+#: inc/admin/welcome-screen/sections/github.php:40
+msgid "Are you enjoying Azera Shop?"
+msgstr "Apakah Anda menikmati Azera Shop?"
+
+#: inc/admin/welcome-screen/sections/github.php:33
+msgid "Translate Azera Shop"
+msgstr "Terjemahkan Azera Shop"
+
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Get involved at WordPress.org."
+msgstr "Gabunglah di Wordpress.org."
+
+#: inc/admin/welcome-screen/sections/github.php:28
+msgid "Are you a polyglot? Want to translate Azera Shop into your own language?"
+msgstr "Apakan Anda seorang polygot? Ingin menerjemakan Azera Shop ke bahasa Anda?"
+
+#: inc/admin/welcome-screen/sections/github.php:20
+msgid "Azera Shop on GitHub"
+msgstr "Azera Shop di GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:17
+msgid "GitHub is the place to go!"
+msgstr "GitHub adalah tempat paling tepat!"
+
+#: inc/admin/welcome-screen/sections/github.php:15
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Menemukan bug? Ingin berkontribusi memperbaiki atau membuat fitur baru?"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Bagaimana bisa saya berkontribusi?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:155
+msgid "Install Pirate Forms"
+msgstr "Pasang Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:145
+msgid "Makes your contact page more engaging by creating a good-looking contact form on your website. The interaction with your visitors was never easier."
+msgstr "Menjadikan laman kontak Anda lebih keren dengan membuat form kontak yang menarik pada website Anda. Interaksi dengan para pengunjung tidak pernah semudah ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:144
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:131
+msgid "Install Intergeo Maps"
+msgstr "Pasang Intergeo Maps"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:106
+#: inc/admin/welcome-screen/sections/getting-started.php:125
+#: inc/admin/welcome-screen/sections/getting-started.php:149
+#: inc/admin/welcome-screen/sections/getting-started.php:169
+#: inc/admin/welcome-screen/sections/getting-started.php:188
+msgid "Already activated"
+msgstr "Sudah diaktifkan"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:121
+msgid "The Intergeo Google Maps plugin is a simple, easy and in the same time quite powerful tool for handling Google Maps in your website. The plugin allows users to create new maps by using powerful UI builder."
+msgstr "Plugin Intergeo Maps - Google Maps sangat simpel, mudah dan pada waktu bersamaan juga sangat berguna untuk menangani Google Maps di website Anda. Plugin memungkinkan pengguna nya membuat peta baru dengan menggunakan UI builder yang bermanfaat."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:120
+msgid "Intergeo Maps - Google Maps Plugin"
+msgstr "Plugin Intergeo Maps - Google Maps"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:95
+msgid "Recommended plugins"
+msgstr "Plugin yang disarankan"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "Read full documentation"
+msgstr "Baca dokumentasi lengkap"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:85
+msgid "Need more details? Please check our full documentation for detailed information on how to use Azera Shop."
+msgstr "Perlu lebih rinci? Silahkan cek dokumentasi lengkap kami untuk informasi lebih rinci tentang penggunaan Azera Shop."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:84
+msgid "View full documentation"
+msgstr "Lihat dokumentasi lengkap"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "Tautkan bagian laman depandengan menu atas sangat mudah, semua yang Anda perlu lakukan adalah menerapkan anchor bagian terhadap menu. Pada dokumentasi dibawah Anda akan temukan tutorial keren tentang ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:71
+msgid "Link Menu to sections"
+msgstr "Bagian Link Menu"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:66
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Jika Anda merasa segala sesuatunya pada website Anda berjalan lambat, Anda harus mempertimbangkan untuk melihat dokumetasi dibawah ini dimana Anda akan temukan solusi dari kebanyakan masalah seperti itu dan kemungkinan bisa dibetulkan."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:65
+msgid "Speed up your site"
+msgstr "Percepat website Anda"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:58
+msgid "Although English is the most used language on the internet, you should consider all your web users as well. Find out what it takes to make your website ready for foreign markets from this document."
+msgstr "Walau Inggris merupakan bahasa paling sering digunakan di internet, Anda tetap perlu mempertimbangkan pengguna web dengan baik. Temukan bagaimana cara membuat website Anda siap untuk pasaran lokal dari dokumen ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:57
+msgid "How to Internationalize Your Website"
+msgstr "Bagaimana cara Menginternasionalisasikan Website Anda"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:53
+#: inc/admin/welcome-screen/sections/getting-started.php:59
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+#: inc/admin/welcome-screen/sections/getting-started.php:73
+msgid "View how to do this"
+msgstr "Lihat bagaimana cara melakukannya"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:52
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Jika Anda ingin melakukan perubahan pada file tema, perubahan tersebut akan ditimpa saat Anda melakukan pembaruan berikutnya. Untuk mengatasi hal ini terjadi, Anda perlu membuat tema anak. Untuk itu, silahkan ikuti dokumentasi nya dibawah ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:51
+msgid "Create a child theme"
+msgstr "Buat tema anak"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:45
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:37
+msgid "Go to Customizer"
+msgstr "Pergi ke Kutomisasi"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Menggunakan Kustomisasi Wordpress Anda dapat dengan mudah mengkustom setiap aspek tema."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:35
+msgid "Customize everything in a single place."
+msgstr "Kustom semuanya di satu tempat."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:33
+#: inc/admin/welcome-screen/welcome-screen.php:180
+msgid "Getting started"
+msgstr "Mulai"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:25
+msgid "We want to make sure you have the best experience using Azera Shop and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Azera Shop, as much as we enjoy creating great products."
+msgstr "Kami ingin memastikan Anda mendapatkan pengalaman terbaik menggunakan Azera Shop dan itulah kenapa kami kumpulan semua informasi disini untuk Anda. Kami harap Anda menikmati Azera Shop, seperti kami kami menikmati saat membuatnya."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+msgid "Our most elegant and professional one-page theme, which turns your scrolling into a smooth and pleasant experience."
+msgstr "Tema one-page kami yang sangat elegan dan profesional, mampu menggulir halus dan pengalaman yang tak terlupakan."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "Welcome to %1$s!"
+msgstr "Selamat datang di %1$s!"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:58
+#: inc/admin/welcome-screen/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hore! Tidak ada tindakan yang diperlukan saat ini."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with Azera Shop's recommended actions"
+msgstr "Tetaplah dengan tindakan yang direkomendasikan Azera Shop"
+
+#: header.php:149
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: header.php:148
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cari:"
+
+#: header.php:148
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Cari Produk &hellip;"
+
+#: header.php:110
+msgid "Toggle navigation"
+msgstr "Navigasi alihan"
+
+#: header.php:109
+msgid "Toggle Menu"
+msgstr "Menu Alihan"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: functions.php:850 header.php:157
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja Anda"
+
+#: functions.php:832
+msgid "Read more about "
+msgstr "Baca selengkapnya tentang"
+
+#. translators: 1 - comment date, 2 - comment time
+#: functions.php:601
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: functions.php:598
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: functions.php:593
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang dimoderasi."
+
+#. translators: comment author
+#: functions.php:590
+msgid "<span itemprop=\"name\">%s </span><span class=\"says\">says:</span>"
+msgstr "<span itemprop=\"name\">%s </span><span class=\"says\">mengatakan:</span>"
+
+#: functions.php:577 functions.php:604
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: functions.php:577
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:342
+msgid "Upgrade to PRO"
+msgstr "Tingkatkan ke PRO"
+
+#: functions.php:341
+msgid "Support Forum"
+msgstr "Forum Bantuan"
+
+#: functions.php:340
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: functions.php:266
+msgid "collapse child menu"
+msgstr "persempit menu anak"
+
+#: functions.php:265
+msgid "expand child menu"
+msgstr "perlebar menu anak"
+
+#. translators: footer area number
+#: functions.php:220
+msgid "Footer area %d"
+msgstr "Area footer %d"
+
+#: functions.php:207
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:139
+msgid "In order to use map section, you need to install Intergeo Maps plugin then use it to create a map and paste the generated shortcode in Customize -> Contact section -> Map shortcode"
+msgstr "Untuk menggunakan bagian peta, Anda perlu memasang plugin Intergeo Maps - Google Maps terlebih dahulu untuk membuat peta dan tempel hasil potongan kode nya di Kustomisasi -> Bagian kontak -> Potongan kode peta"
+
+#: functions.php:138
+msgid "Install Intergeo Maps - Google Maps Plugin"
+msgstr "Pasang Plugin Intergeo Maps - Google Maps"
+
+#: functions.php:133
+msgid "In order to have the one page look for your website, please go to Customize -> Advanced Options -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "Supaya website Anda terlihat one-page, silahkan pergi ke Kustomisasi -> Opsi Lanjutan -> Laman Depan Statis dan Alihkan \"Tampilan laman depan\" ke \"Laman statis\". Kemudian pilih template \"Laman depan\" untuk laman tersebut."
+
+#: functions.php:132
+msgid "Switch \"Front page displays\" to \"A static page\" "
+msgstr "Alihkan \"Tampilan laman depan\" ke \"Laman statis\""
+
+#: functions.php:49
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: functions.php:48 functions.php:1004 header.php:122
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php:910
+msgid "WordPress"
+msgstr "WordPress"
+
+#. #-#-#-#-#  azera-shop.pot (Azera Shop 1.1.7)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions.php:909 inc/class/azera-shop-general-control.php:259
+#: inc/class/azera-shop-general-control.php:357
+msgid "Azera Shop"
+msgstr "Azera Shop"
+
+#. translators: 1 - theme name , 2 - WordPress link
+#: functions.php:908
+msgid "%1$s powered by %2$s"
+msgstr "%1$s dipersembahkan oleh %2$s"
+
+#: footer.php:73 footer.php:74
+msgid "Secondary Menu"
+msgstr "Menu Kedua"
+
+#: footer.php:47
+msgid "Widgets Area 4"
+msgstr "Area Widget 4"
+
+#: footer.php:38
+msgid "Widgets Area 3"
+msgstr "Area Widget 3"
+
+#: footer.php:29
+msgid "Widgets Area 2"
+msgstr "Area Widget 2"
+
+#: footer.php:19
+msgid "Widgets Area 1"
+msgstr "Area Widget 1"
+
+#: content.php:75
+msgid "about "
+msgstr "tentang"
+
+#. translators: Post title
+#: content.php:75
+msgid "Read more %s &#8230;"
+msgstr "Baca selengkapnya %s &#8230;"
+
+#: content.php:49
+msgid "Posted in"
+msgstr "Dipos di"
+
+#: content-search.php:44
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: content-search.php:73 content.php:62 functions.php:939
+msgid "% comments"
+msgstr "% komentar"
+
+#: content-search.php:73 content.php:62 functions.php:939
+msgid "One comment"
+msgstr "Satu komentar"
+
+#: content-search.php:73 content.php:62 functions.php:939
+msgid "No comments"
+msgstr "Tidak ada komentar"
+
+#: content-search.php:60
+msgid "Posted in "
+msgstr "Dipos di"
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:54 content.php:52 inc/template-tags.php:82
+#: inc/template-tags.php:89
+msgid ", "
+msgstr ", "
+
+#: functions.php:957
+msgctxt "post month fomat"
+msgid "M"
+msgstr "M"
+
+#: functions.php:956
+msgctxt "post day fomat"
+msgid "d"
+msgstr "d"
+
+#: content-page.php:19 content-search.php:91 content-single-download.php:29
+#: content-single.php:21 content.php:83
+msgid "Pages:"
+msgstr "Laman:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Kita tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata kunci Anda. Silahkan coba lagi dengan kata kunci yang lain."
+
+#. translators: Add new post link
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap mempublikasikan pos pertamamu? <a href=\"%1$s\">Mulai disini</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: content-contact.php:34 content-page.php:26 inc/template-tags.php:102
+msgid "Edit"
+msgstr "Sunting"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:55 comments.php:78
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:54 comments.php:77
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:51 comments.php:74
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Semua pemasanga ntelah berhasil."
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil dipasang."
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan sedang berlangsung. Proses ini mungkin agak lama pada beberapa hosting, harap bersabar."
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Semua Pemasangan dan Pengaktifan telah berhasil."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s berhasil terpasang dan diaktifkan."
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dan pengaktifan dimulai. Mungkin agak lama pada beberapa hosting, harap bersabar."
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat memasang %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Pengaktifan plugin gagal,"
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin tersedia untuk diaktifkan saat ini."
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin yang dipilih untuk diaktifkan. Tidak ada tindakan."
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk dipasang saat ini."
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin yang dipilih untuk diperbarui. Tidak ada tindakan"
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin yang dipilih untuk dipasang. Tidak ada tindakan."
+
+#: class-tgm-plugin-activation.php:2612 functions.php:167
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Perbarui"
+
+#: class-tgm-plugin-activation.php:2603 functions.php:166
+#: inc/admin/welcome-screen/sections/getting-started.php:175
+#: inc/admin/welcome-screen/sections/getting-started.php:194
+msgid "Install"
+msgstr "Pasang"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan peningkatan dari pembuat plugin:"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Versi"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Jenis"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Sumber"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Tidak ada plugin untuk dipasang, diperbarui atau diaktifkan. <a href=\"%1$s\">Kembali ke Dasbor</a>"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Versi minimum yang diperlukan:"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Mengaktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Mengaktifkan <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Pembaruan Tersedia <span class=\"count\">(%s)</span>"
+msgstr[1] "Pembaruan Tersedia <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Memasang <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Memasang <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Pembaruan disarankan"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Memerlukan Pembaruan"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Pembaruan yang Diperlukan tidak Tersedia"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Aktif"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Terpasang Tapi Tidak Aktif"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Tidak Terpasang"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Pra-Kemas"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Sumber Eksternal"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Repositori Wordpress"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Diperlukan"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Kemasan plugin berisi lebih dari satu file, tapi file-file tersebut tidak dikemas kedalam sebuah folder."
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Silahkan hubungi pembuat plugin dan minta mereka mengemas plugin nya sesuai dengan ketentuan Wordpress."
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Kemasan plugin tidak mengandung folder dengan slug yang diinginkan dan pergantian nama gagal."
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Atur variabel config parent_slug."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Pembaruan Diperlukan"
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini perlu diperbarui supaya cocok dengan tema Anda."
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Silahkan hubungi administrator situs ini untuk bantuan."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Abaikan pesan ini"
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil dipasang dan diperbarui. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkam. Versi tertinggi %s diperlukan untuk tema ini. Silahkan perbarui plugin."
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada tindakan. Plugin %1$s memang sudah aktif."
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin berikut ini berhasil diaktifkan:"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Pemasang Plugin yang Diperlukan"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai perbarui plugin"
+msgstr[1] "Mulai perbarui plugin"
+
+#: class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai memasang plugin"
+msgstr[1] "Mulai memasang plugin"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Maaf, Anda tidak memiliki izin untuk mengaktifkan plugin %1$s."
+msgstr[1] "Maaf, Anda tidak memiliki izin untuk mengaktifkan plugin %1$s."
+
+#: class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang disarankan berikut ini sedang tidak aktif: %1$s."
+msgstr[1] "Plugin yang disarankan berikut ini sedang tidak aktif: %1$s."
+
+#: class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang diperlukan berikut ini sedang tidak aktif: %1$s."
+msgstr[1] "Plugin yang diperlukan berikut ini sedang tidak aktif: %1$s."
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Maaf, Anda tidak memiliki izin untuk memperbarui plugin %1$s."
+msgstr[1] "Maaf, Anda tidak memiliki izin untuk memperbarui plugin %1$s."
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Tersedia pembaruan untuk: %1$s."
+msgstr[1] "Tersedia pembaruan untuk: %1$s."
+
+#: class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Plugin berikut ini perlu diperbarui ke versi terbarunya supaya cocok dengan tema ini: %1$s."
+msgstr[1] "Plugin berikut ini perlu diperbarui ke versi terbarunya supaya cocok dengan tema ini: %1$s."
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Maaf, Anda tidak memiliki izin untuk memasang plugin %1$s."
+msgstr[1] "Maaf, Anda tidak memiliki izin untuk memasang plugin %1$s."
+
+#: class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema ini menyarankan plugin berikut: %1$s."
+msgstr[1] "Tema ini menyarankan plugin berikut: %1$s."
+
+#: class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema ini memerlukan plugin berikut: %1$s."
+msgstr[1] "Tema ini memerlukan plugin berikut: %1$s."
+
+#: class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Kesalahan terjadi pada API plugin."
+
+#: class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Memasang Plugin: %s"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Pasang Plugin"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Pasang Plugin yang Diperlukan"
+
+#: functions.php:869 inc/customizer.php:650
+msgid "BLOG"
+msgstr "BLOG"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tidak ada apa-apa disini. Mungkin mau coba link dibawah ini atau coba pencarian?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tidak ditemukan."
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com/"
+msgstr "http://themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/azera-shop/"
+msgstr "http://themeisle.com/themes/azera-shop/"
